@@ -1,0 +1,16 @@
+loveworld-ttu/
+├── index.html          ← Home page
+├── about.html
+├── contact.html
+├── login.html
+├── dashboard.html      ← Leaders & pastors
+├── profile.html        ← Member's own view
+├── css/
+│   └── style.css
+├── js/
+│   ├── firebase.js     ← Firebase config
+│   ├── auth.js         ← Login/logout
+│   ├── dashboard.js    ← Members & cells
+│   └── cells.js
+└── assets/
+    └── logo.png        ← Your church logo
