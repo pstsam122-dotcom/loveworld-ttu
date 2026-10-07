@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "AIza...",
+  authDomain: "loveworld-ttu.firebaseapp.com",
+  projectId: "loveworld-ttu",
+  storageBucket: "loveworld-ttu.appspot.com",
+  messagingSenderId: "123456789",
+  appId: "1:123..."
+};
